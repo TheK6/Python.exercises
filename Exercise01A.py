@@ -7,4 +7,3 @@ print(add)
 a[4] = 100
 for i in a:
     print(i)
-
